@@ -1,4 +1,4 @@
-# 🚀 Hola, soy Mariela Bracamonte | Software & Automation Engineer
+# 🚀 Hola, soy Mariela Bracamonte | Software Developer & Data Scientist | Bridging User Experience with Data Intelligence
 
 ### ⚡ "Transformando código en eficiencia y datos en decisiones"
 
