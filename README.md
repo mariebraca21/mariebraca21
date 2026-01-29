@@ -18,11 +18,6 @@ Ingeniera de Datos con mentalidad de automatización. Me especializo en construi
 `Make.com (Integromat)` `n8n` `Webhooks` `Google Tag Manager` `Marketing Automation`
 
 ---
-
-## 📊 Estadísticas de GitHub
-![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📂 Proyectos Destacados
