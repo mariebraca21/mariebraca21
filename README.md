@@ -1,6 +1,6 @@
 
 <p align="center" width="300">
-   <img align="center" width="200" src=https://media.licdn.com/dms/image/D4D03AQEb7hBFvqOCjg/profile-displayphoto-shrink_800_800/0/1708125369550?e=1720051200&v=beta&t=fHpeGJRtufF9Qlig1yZiaAKPPWivM5MxgqsEDt-_MBU />
+ 
    <h3 align="center">¡Hi 👋! I'm Mariee Braca.  👨🏻‍💻</h3>
 </p>
   
